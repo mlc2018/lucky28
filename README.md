@@ -1,4 +1,4 @@
-# pcdd28-lucky day
+# pcdd28-幸运版
 
 ## **游戏介绍：**
 
